@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.ibm.classobjects.mammals.human"/>
+    <fullyQualifiedTypeName name="com.ibm.classobjects.mammals.humaneye"/>
+    <fullyQualifiedTypeName name="com.ibm.classobjects.mammals.man"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.ibm.enums1.types.Apples"/>
+    <fullyQualifiedTypeName name="com.ibm.oops.payroll.Employee"/>
+</qualifiedTypeNameHistroy>

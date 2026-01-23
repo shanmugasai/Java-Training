@@ -1,0 +1,19 @@
+package com.ibm.classobjects;
+
+import com.ibm.classobjects.mammals.man;
+
+public class Application
+{
+	public static void main( String[] args )
+	{
+		man man1 =new man();
+		man1.lefteye.color="black";
+		man1.righteye.color="black";
+		
+		man1.lefteye.power=1.0f;
+		man1.righteye.power=1.0f;
+		
+		System.out.println(man1.toString());
+		
+	}
+}

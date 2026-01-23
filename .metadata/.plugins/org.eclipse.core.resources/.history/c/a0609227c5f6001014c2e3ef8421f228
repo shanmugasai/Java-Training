@@ -1,0 +1,13 @@
+package com.ibm.classobjects.mammals;
+
+import com.ibm.classobjects.mammals.organs.eye;
+
+public class humaneye extends eye {
+	public float power;
+
+	@Override
+	public String toString() {
+		return "humaneye [power=" + power + ", color=" + color + "," + super.toString() + "]";
+	}
+
+}

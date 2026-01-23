@@ -1,0 +1,9 @@
+package com.ibm.enums1.apples;
+
+public class Apples {
+
+	public Apples() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

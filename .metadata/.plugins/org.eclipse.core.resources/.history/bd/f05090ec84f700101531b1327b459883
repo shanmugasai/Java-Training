@@ -1,0 +1,15 @@
+package com.ibm.oops.payroll;
+
+public class PermanetEmployee extends Employee {
+
+	public PermanetEmployee() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void netpay() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

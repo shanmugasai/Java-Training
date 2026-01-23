@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.ibm.client.cui;
+import java.util.sql.*;
+import java.util.Date;
+/**
+ * 
+ */
+public class Mainapp {
+	public static void main (String[] args) {
+		Date date;
+		System.out.println("Hello IBMer!!,welcome to banglore");
+	}
+
+}

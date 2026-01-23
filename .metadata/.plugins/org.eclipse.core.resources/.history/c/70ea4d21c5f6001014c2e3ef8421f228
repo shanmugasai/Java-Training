@@ -1,0 +1,15 @@
+package com.ibm.classobjects.mammals;
+
+public class human {
+        public humaneye lefteye,righteye;
+        
+        public human() {
+        	lefteye=new humaneye();
+        	righteye=new humaneye();
+        }
+
+		@Override
+		public String toString() {
+			return "human [lefteye=" + lefteye + ", righteye=" + righteye + ", "+ "]";
+		}
+}

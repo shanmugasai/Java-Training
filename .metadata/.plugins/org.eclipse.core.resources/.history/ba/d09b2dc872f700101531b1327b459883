@@ -1,0 +1,9 @@
+package com.ibm.encapslation;
+
+public class BASE1 {
+
+	public BASE1() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

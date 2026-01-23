@@ -1,0 +1,9 @@
+package com.ibm.oops.payroll;
+
+public class PermanetEmployee {
+
+	public PermanetEmployee() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

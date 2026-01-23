@@ -1,0 +1,10 @@
+package com.ibm.classobjects.mammals.organs;
+
+public class eye {
+	public String color;
+
+	@Override
+	public String toString() {
+		return "eye [color=" + color + ", "+ "]";
+	}
+}

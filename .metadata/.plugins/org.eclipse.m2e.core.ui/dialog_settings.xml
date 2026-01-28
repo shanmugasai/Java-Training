@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\ShanmugaSaiMalakati\eclipse-workspace\threads"/>
 			<item value="C:\ShanmugaSaiMalakati\eclipse-workspace\oops\src\main\java"/>
 			<item value="C:\ShanmugaSaiMalakati\eclipse-workspace\arrays\src\main\java\com\ibm\arrays\Application.java"/>
 			<item value="C:\ShanmugaSaiMalakati\eclipse-workspace\classobjects"/>
@@ -28,19 +29,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.ibm.opps"/>
-			<item value="com.ibm.oops"/>
-			<item value="com.ibm.enums1"/>
-			<item value="com.ibm.enums"/>
 		</list>
 		<list key="groupId">
-			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
-			<item value="opps"/>
-			<item value="oops"/>
-			<item value="enums1"/>
-			<item value="enums"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
